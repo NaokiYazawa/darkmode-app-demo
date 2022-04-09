@@ -6,7 +6,7 @@ Learn how to configure and build a dark mode switcher using Tailwind CSS.
 
 Light Mode
 
-![white](./public/images/light.png)
+![light](./public/images/light.png)
 
 Dark Mode
 
